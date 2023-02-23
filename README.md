@@ -1,1 +1,1 @@
-[ibrahim-code1.github.io/](https://ibrahim-code1.github.io/)
+[ibrahim-code1.github.io](https://ibrahim-code1.github.io/)
